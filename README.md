@@ -1,0 +1,4 @@
+Not very long ago, only handful of people (Data Engineers, Analysts) could query the SQL databases in an organization. The people who needed it the most: Sales and Marketing team, didn’t have the skills to query the databases. They had to rely on the technical teams to get some information.
+This multi-agent text-2-sql chatbot removes that dependency. It empowers all the people in the organization to ask questions in natural english language.
+This project demonstrate that we can democratize data access by converting natural language questions into SQL queries, executing them, and presenting results with intelligent visualizations.
+Built using LangGraph’s state machine architecture and powered by OpenAI’s gpt-4o-mini, this system orchestrates multiple specialized AI agents that work together to provide accurate, context-aware responses to e-commerce database queries.
