@@ -1,3 +1,4 @@
+Build a Multi-Agent Text2SQL Chatbot for E-commerce Database
 Not very long ago, only handful of people (Data Engineers, Analysts) could query the SQL databases in an organization. The people who needed it the most: Sales and Marketing team, didn’t have the skills to query the databases. They had to rely on the technical teams to get some information.
 This multi-agent text-2-sql chatbot removes that dependency. It empowers all the people in the organization to ask questions in natural english language.
 This project demonstrate that we can democratize data access by converting natural language questions into SQL queries, executing them, and presenting results with intelligent visualizations.
